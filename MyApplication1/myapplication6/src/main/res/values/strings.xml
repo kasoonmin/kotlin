@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="kakao_txt">카카오톡</string>
+    <string name="kakao_txt2">[기기 로그인 알림]</string>
+    <string name="kakao_txt3">11월 9일</string>
+
+</resources>
